@@ -30,3 +30,5 @@ Una vez sorteados todos los participantes de nuestro juego, tal como aparece en 
 
 Ahora si yo quiero volver a jugar con otra lista de amigos solo debo reiniciar la pagina web y de inmediato podre volver a ingresar una lista de amigos.
 ¡A jugar!
+
+## Autor +*Hector Molinet* - [larryrex]
